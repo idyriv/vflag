@@ -1,0 +1,28 @@
+{
+    "name": "прапор",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.6.23",
+        "tag": "v1.6.23",
+        "commits": "https://github.com/microsoft/pxt-minecraft/commits/776e5916294e1647afe221621cf2c19965e4cf09",
+        "target": "1.7.21",
+        "pxt": "8.1.7",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
